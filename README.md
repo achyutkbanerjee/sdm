@@ -5,4 +5,5 @@ The codes for modeling species distribution have been placed in this repository.
 3. Testing of model transferability (sdm3)
 4. Modelling distribution of an invasive species (sdm4)
 5. Modelling distribution of a true mangrove species (sdm5)
-The data files for sdm1, sdm4 and sdm5 are available at: 
+6. Downloading occurrence data for a large number of species from GBIF (sdm6)
+*The data files for sdm1, sdm4 and sdm5 are available at: 
