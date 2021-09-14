@@ -9,5 +9,5 @@ The codes for modeling species distribution have been placed in this repository.
 
 *Note: The data files for sdm3 and sdm6 are available within the 'Data' folder of this repository. The data files for sdm1 (and sdm4), sdm2 and sdm5 can be downloaded from the following links:
 1. sdm1 (and sdm4): https://share.weiyun.com/NeTFA98G 
-2. sdm2:
-3. sdm5:
+2. sdm2: https://share.weiyun.com/jCpTFWAW
+3. sdm5: https://share.weiyun.com/8fZJIA3U
